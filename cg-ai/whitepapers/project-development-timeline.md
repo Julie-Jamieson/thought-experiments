@@ -1,10 +1,10 @@
 ## Project Development Timeline
 
 **Initial CG-AI thought experiments and simulation scenarios:**  
-October 2025
+October 24 - 26, 2025
 
 **Expanded multi-agent ethical simulations and alignment discussions:**  
-October 2025 – February 2026
+October 26, 2025 – February 13, 2026
 
 **Repository organization, whitepaper development, and archival structuring:**  
 May 2026
