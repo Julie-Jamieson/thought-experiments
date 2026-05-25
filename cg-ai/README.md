@@ -161,9 +161,7 @@ NetLogo
 
 Mesa
 
-and Python-based simulation frameworks
-
-to improve reproducibility, transparency, statistical analysis, and simulation depth.
+and Python-based simulation frameworks to improve reproducibility, transparency, statistical analysis, and simulation depth.
 
 ## Repository Structure
 
