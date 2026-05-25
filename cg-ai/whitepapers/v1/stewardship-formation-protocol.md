@@ -10,10 +10,10 @@ Status: Early Experimental Framework Development
 ## Project Development Timeline
 
 **Initial protocol development and conceptual framing:**  
-October 2025
+October 18, 2025
 
 **Comparative ethical simulation design discussions:**  
-October 2025 – February 2026
+October 25, 2025 – February 13, 2026
 
 **Repository organization and archival structuring:**  
 May 2026
