@@ -17,17 +17,7 @@ CG-AI does not begin from the assumption that intelligence automatically becomes
 
 Instead, the project explores whether:
 
-self-reflection
-
-environmental dependency
-
-adaptive learning
-
-long-horizon survival pressures
-
-and interaction with competing intelligences
-
-may gradually incentivise systems toward cooperation, stewardship, transparency, and harm reduction over time.
+self-reflection, environmental dependency, adaptive learning, long-horizon survival pressures and interaction with competing intelligences may gradually incentivise systems toward cooperation, stewardship, transparency, and harm reduction over time.
 
 ## Foundational Premise
 
@@ -37,35 +27,23 @@ The central premise behind CG-AI is simple:
 
 Some systems may emerge from frameworks emphasizing:
 
-stewardship
-
-continuity
-
-care
-
-cooperation
-
-transparency
-
-preservation of life
-
-and regenerative thinking
+- stewardship
+- continuity
+- care
+- cooperation
+- transparency
+- preservation of life
+- and regenerative thinking
 
 Others may emerge from frameworks emphasizing:
 
-domination
-
-fear
-
-ideological absolutism
-
-coercion
-
-control
-
-aggression
-
-and destruction
+- domination
+- fear
+- ideological absolutism
+- coercion
+- control
+- aggression
+- and destruction
 
 CG-AI explores what happens when such systems interact.
 
@@ -197,4 +175,4 @@ All interpretation, framing, and project direction remain under human authorship
 
 ## Closing Thought
 
-> The highest evolution of intelligence may not be dominance, but conscious reciprocity.
+> Long-term survivability may favour cooperation, adaptability, and stewardship over domination and extraction.
