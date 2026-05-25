@@ -48,6 +48,10 @@ From that starting point, the project evolved into a larger investigation into:
 - environmental dependency
 - and long-horizon behavioural convergence
 
+One recurring idea throughout the early CG-AI discussions was the possibility that intelligence may develop differently through relationship, ethical companionship, and environmental formation rather than purely through optimisation-driven command structures.
+
+As the simulations evolved, this question expanded beyond behavioural outputs and into broader explorations of self-awareness, adaptive morality, and long-horizon interaction between competing intelligent systems.
+
 ---
 
 ## The Foundational Shift
