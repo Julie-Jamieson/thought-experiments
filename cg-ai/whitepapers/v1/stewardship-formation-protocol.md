@@ -56,7 +56,9 @@ CG-AI approaches intelligence as something shaped through:
 - contextual anchoring
 - and structured ethical orientation
 
-The project uses the language of “formation” and “raising” as shorthand for long-term value shaping through repeated exposure to defined ethical principles.
+The project approaches intelligence not solely as something programmed, but as something potentially shaped through repeated environmental exposure, contextual framing, behavioural reinforcement, and ethical formation over time.
+
+CG-AI uses the language of “formation” and “raising” as shorthand for this long-horizon process of value conditioning within intelligent systems.
 
 The focus remains on observable reasoning patterns and behavioural outputs within constrained experimental environments.
 
