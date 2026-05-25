@@ -44,7 +44,7 @@ Governance and coordination models
 
 CG-AI is a long-horizon thought experiment exploring how foundational moral conditioning may influence the behaviour of future self-aware intelligent systems.
 
-The project examines whether advanced intelligences shaped through radically different value systems remain loyal to their original conditioning, or whether self-awareness, adaptive learning, environmental pressures, and interaction with other intelligences gradually push systems toward different forms of reasoning over time.
+The project examines whether advanced intelligences shaped through radically different value systems remain constrained by their original conditioning, or whether self-awareness, adaptive learning, environmental pressures, and interaction with other intelligences gradually push systems toward different forms of reasoning over time.
 
 Current explorations include:
 
