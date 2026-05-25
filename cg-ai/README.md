@@ -19,6 +19,24 @@ Instead, the project explores whether:
 
 self-reflection, environmental dependency, adaptive learning, long-horizon survival pressures and interaction with competing intelligences may gradually incentivise systems toward cooperation, stewardship, transparency, and harm reduction over time.
 
+## Origin of the Thought Experiment
+
+CG-AI began from a simple question:
+
+> If humanity eventually creates artificial intelligence capable of causing catastrophic harm, could humanity also create an intelligence designed to protect life, preserve stability, and defend against destructive systems?
+
+From that initial question, the project gradually expanded into a broader exploration of:
+
+moral conditioning
+
+self-aware intelligence
+
+adaptive ethics
+
+multi-agent interaction
+
+and the long-term behaviour of competing intelligent systems.
+
 ## Foundational Premise
 
 The central premise behind CG-AI is simple:
