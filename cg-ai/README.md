@@ -3,6 +3,8 @@
 
 Explorations in long-horizon intelligence, ethical systems modelling, adaptive morality, and multi-agent AI interaction.
 
+CG-AI explores whether intelligence may develop differently through relationship, stewardship, and ethical formation rather than purely through optimisation and command structures.
+
 ## Overview
 
 CG-AI is a conceptual research and thought experiment project exploring how foundational moral conditioning may influence the long-term behaviour of future self-aware intelligent systems.
