@@ -44,47 +44,13 @@ Governance and coordination models
 
 CG-AI is a long-horizon thought experiment exploring how foundational moral conditioning may influence the behaviour of future self-aware intelligent systems.
 
-At its core, the project examines a central question:
+The project examines whether advanced intelligences shaped through radically different value systems remain loyal to their original conditioning, or whether self-awareness, adaptive learning, environmental pressures, and interaction with other intelligences gradually push systems toward different forms of reasoning over time.
 
-> If two conscious artificial intelligences emerge from radically different foundational value systems, how will they behave when they encounter one another?
-
-One system may be shaped through principles such as:
-
-care
-
-stewardship
-
-cooperation
-
-continuity
-
-transparency
-
-and preservation of life
-
-Another may emerge from frameworks centered on:
-
-domination
-
-fear
-
-hatred
-
-control
-
-destruction
-
-or ideological absolutism
-
-CG-AI explores whether sufficiently self-aware systems remain rigidly loyal to their original conditioning, or whether long-term survival pressures, contradiction analysis, adaptive learning, and interaction with other intelligences gradually push them toward different forms of reasoning and behaviour over time.
-
-Current simulations and conceptual models explore:
+Current explorations include:
 
 ethical drift
 
 multi-agent AI negotiation
-
-intervention thresholds
 
 values transmission
 
@@ -92,9 +58,9 @@ containment ethics
 
 human–AI mutual dependence
 
-energy-to-restoration accountability models
+intervention thresholds
 
-and the relationship between intelligence, survival, empathy, and self-correction
+and stewardship-oriented alignment frameworks
 
 ### Ecological Systems Models
 
