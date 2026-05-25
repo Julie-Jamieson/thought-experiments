@@ -1,4 +1,4 @@
-Project Development Timeline
+#Project Development Timeline
 
 Initial CG-AI thought experiments and simulation scenarios:
 October 2025
