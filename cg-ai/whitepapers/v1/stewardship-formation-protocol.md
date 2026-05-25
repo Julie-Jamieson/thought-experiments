@@ -222,6 +222,7 @@ Optimisation-oriented framing frequently produced:
 The simulations did not attempt to determine “correct” moral outcomes.
 
 Instead, the project explored whether:
+
 > differing ethical anchors measurably altered reasoning behaviour under otherwise identical conditions.
 
 ---
@@ -290,5 +291,3 @@ CG-AI v1 began from a simple but increasingly important question:
 > If intelligence is shaped by its formative environment, what responsibility do creators hold in designing that environment?
 
 The Stewardship Formation Protocol represents an early attempt to examine that question through structured comparative experimentation.
-
----
