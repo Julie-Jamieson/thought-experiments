@@ -5,7 +5,7 @@ Explorations in long-horizon intelligence, ethical systems modelling, adaptive m
 
 ## Overview
 
-CG-AI™ is a long-horizon thought experiment examining how foundational moral conditioning may influence the behaviour of future self-aware intelligent systems.
+CG-AI is a long-horizon thought experiment examining how foundational moral conditioning may influence the behaviour of future self-aware intelligent systems.
 
 At its core, the project explores a central question:
 
