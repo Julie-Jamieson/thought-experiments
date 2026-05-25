@@ -1,0 +1,158 @@
+; CG-AI — The Companion-Guardian Project
+; Author: Julie Jamieson
+; Simulation: V2 Test 02
+; Platform: NetLogo 7.0.4
+; Date: 2026-05-25
+;
+; Hypothesis:
+; When environmental regeneration is slower, selfish extraction may become
+; less stable over time and may produce collapse or a lower-survival equilibrium.
+;
+; NOTE:
+; This simulation intentionally simplifies behaviour and ecology
+; in order to isolate extraction pressure, regeneration rate,
+; and emergent system stability.
+
+patches-own [
+  resource
+]
+
+turtles-own [
+  energy
+  selfish?
+]
+
+globals [
+  starting-population
+  collapse-tick
+  max-population
+  regeneration-rate
+]
+
+to setup
+  clear-all
+
+  set starting-population 100
+  set collapse-tick 0
+  set max-population starting-population
+  set regeneration-rate 0.1
+
+  ask patches [
+    set resource 100
+    recolor-patch
+  ]
+
+  create-turtles starting-population [
+    setxy random-xcor random-ycor
+    set energy 50
+
+    ifelse random 100 < selfish-percentage [
+      set selfish? true
+      set color red
+    ] [
+      set selfish? false
+      set color blue
+    ]
+
+    set shape "person"
+    set size 1
+  ]
+
+  reset-ticks
+end
+
+to go
+  if not any? turtles [
+    if collapse-tick = 0 [
+      set collapse-tick ticks
+    ]
+    stop
+  ]
+
+  ask turtles [
+    move-agent
+    consume-resource
+    lose-energy
+    reproduce
+    check-death
+  ]
+
+  regenerate-resources
+
+  if count turtles > max-population [
+    set max-population count turtles
+  ]
+
+  tick
+end
+
+to move-agent
+  rt random 50
+  lt random 50
+  fd 1
+end
+
+to consume-resource
+  let desired-consumption 0
+  let energy-gain 0
+
+  ifelse selfish? [
+    set desired-consumption 8
+    set energy-gain 6
+  ] [
+    set desired-consumption 3
+    set energy-gain 3
+  ]
+
+  ask patch-here [
+    let actual-consumption min list resource desired-consumption
+
+    set resource resource - actual-consumption
+    set resource max list resource 0
+
+    recolor-patch
+
+    ask myself [
+      set energy energy +
+        (energy-gain * actual-consumption / desired-consumption)
+    ]
+  ]
+end
+
+to lose-energy
+  set energy energy - 2
+end
+
+to reproduce
+  if energy > 100 [
+    set energy 50
+
+    hatch 1 [
+      set energy 50
+      rt random 360
+      fd 1
+    ]
+  ]
+end
+
+to check-death
+  if energy <= 0 [
+    die
+  ]
+end
+
+to regenerate-resources
+  ask patches [
+    if resource < 100 [
+      set resource resource + regeneration-rate
+    ]
+
+    set resource min list resource 100
+
+    recolor-patch
+  ]
+end
+
+to recolor-patch
+  set pcolor scale-color green resource 0 100
+end
