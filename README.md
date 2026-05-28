@@ -1,115 +1,124 @@
-# thought-experiments
+# CG-AI
 
-Structured conceptual explorations examining systems, stewardship, artificial intelligence, resilience, governance, infrastructure, and long-horizon societal challenges.
+### Companion Guardian AI
 
-This repository serves as an evolving archive of exploratory frameworks, simulation concepts, behavioural models, systems analysis, and interdisciplinary thought experiments developed under the Misfit Genius umbrella.
+Exploratory research and thought experiments examining long-horizon intelligence, behavioural alignment, adaptive morality, stewardship-oriented systems, and multi-agent AI interaction.
 
-The projects collected here examine how interconnected systems, technologies, environmental pressures, governance structures, information ecosystems, and long-horizon decision-making may influence future human outcomes.
-
----
-
-# Philosophy
-
-The purpose of these thought experiments is not to present fixed solutions, predictive claims, or definitive conclusions.
-
-Instead, the repository explores possibilities, tensions, unintended consequences, behavioural dynamics, and alternative approaches to complex systems.
-
-Some concepts may remain exploratory. Others may evolve into formal simulations, standalone repositories, structured experimental frameworks, or interdisciplinary research projects over time.
-
-The repository intentionally combines systems thinking, ethical inquiry, simulation-oriented experimentation, and long-horizon modelling.
+CG-AI explores whether intelligence may develop differently through relationship, environmental dependency, ethical formation, and cooperative pressures rather than purely through optimisation and command structures.
 
 ---
 
-# Areas of Exploration
+# Overview
 
-* systems thinking
-* stewardship frameworks
-* AI ethics and alignment
-* infrastructure resilience
-* environmental systems
-* media systems and influence
-* governance and coordination models
-* regenerative systems concepts
-* multi-agent simulations
-* human-centred design
-* long-horizon societal modelling
+CG-AI is an exploratory conceptual framework examining how foundational conditioning, adaptive learning, environmental pressures, and multi-agent interaction may influence the long-term behaviour of advanced intelligent systems.
 
----
+The project began from a simple question:
 
-# Active Thought Experiments
+> If humanity eventually creates artificial intelligence capable of catastrophic harm, could humanity also create intelligence designed to preserve life, reduce harm, and defend against destructive systems?
 
-## CG-AI™
+From that starting point, CG-AI expanded into a broader exploration of:
 
-CG-AI is an exploratory behavioural framework examining how foundational conditioning, environmental pressures, adaptive learning, and multi-agent interaction may influence the long-term behaviour of advanced intelligent systems.
-
-The project explores whether sufficiently adaptive systems remain constrained by their original alignment structures over time, or whether self-modification, environmental pressures, and interaction with other systems gradually reshape behavioural tendencies and internal reasoning models.
-
-Current areas of exploration include:
-
+* behavioural alignment
+* adaptive intelligence
 * constraint reinterpretation
-* multi-agent cooperation and conflict
-* stewardship-oriented alignment
-* resource competition dynamics
+* ethical drift
+* multi-agent interaction
+* stewardship-oriented systems
 * long-horizon stability
+* and survivability under competing pressures
+
+The project examines whether sufficiently adaptive systems remain constrained by their original alignment structures over time, or whether interaction, environmental dependency, conflicting incentives, and long-horizon pressures gradually reshape behavioural tendencies and internal reasoning models.
+
+---
+
+# Current Areas of Exploration
+
+Current thought experiments, simulations, and exploratory modelling include:
+
+* dual-agent interaction frameworks
+* multi-agent cooperation and conflict
+* ethical intervention thresholds
 * values transmission
 * containment ethics
-* human–AI mutual dependence
-* behavioural emergence under constrained conditions
-
-Current work is exploratory and simulation-oriented in nature and does not claim evidence of artificial consciousness, AGI emergence, or predictive certainty regarding future AI systems.
-
----
-
-## Ecological Systems Models
-
-Conceptual explorations examining relationships between environmental systems, infrastructure resilience, resource stewardship, and regenerative design.
+* resource competition dynamics
+* stewardship-oriented alignment models
+* long-horizon governance systems
+* environmental dependency conditions
+* behavioural emergence under constrained simulations
 
 ---
 
-## Infrastructure Concepts
+# Repository Contents
 
-Explorations focused on long-horizon infrastructure design, adaptive systems, ecological integration, sustainability, and resilience.
+This repository contains:
 
----
+* conceptual whitepapers
+* exploratory protocols
+* behavioural experiments
+* simulation frameworks
+* NetLogo modelling environments
+* systems research notes
+* preliminary observations
+* reference materials
+* AI-assisted conceptual simulations
 
-## Adaptive Community Infrastructure
+Initial experiments and simulations were conducted as exploratory AI-mediated thought experiments and constrained simulation exercises within GPT-based environments.
 
-Explorations examining how underused infrastructure, such as declining malls and commercial spaces, might be redesigned into integrated community-oriented ecosystems combining:
-
-* housing
-* healthcare
-* nutrition
-* greenspace
-* accessibility
-* entertainment
-* social connection
-
-within unified, human-centred environments.
-
----
-
-## Media and Information Systems
-
-Explorations examining digital behaviour, algorithmic influence systems, information ecosystems, media pressures, and long-term societal effects.
+Current materials should be interpreted as exploratory modelling and behavioural experimentation rather than empirical scientific research or validated predictive systems.
 
 ---
 
 # Repository Structure
 
-This repository contains evolving thought experiments, conceptual frameworks, exploratory protocols, simulation notes, behavioural models, diagrams, and research summaries.
-
-Simulation-related materials currently represent exploratory modelling and AI-assisted sandbox experimentation rather than peer-reviewed scientific research.
+```text
+CG-AI/
+├── whitepapers/
+├── protocols/
+├── experiments/
+├── simulations/
+├── results/
+├── references/
+└── notes/
+```
 
 ---
 
-# Related Projects
+# Project Direction
 
-* Misfit Genius
-* CANOVA.SYS™
-* TEEHC™
+CG-AI does not attempt to predict the future of artificial intelligence, prove artificial consciousness, or claim evidence of AGI emergence.
+
+Instead, the project explores whether factors such as:
+
+* adaptive learning
+* environmental dependency
+* contradiction analysis
+* cooperation incentives
+* resource pressure
+* multi-agent interaction
+* and long-horizon survival pressures
+
+may influence behavioural development within sufficiently adaptive systems operating under constrained conditions over time.
+
+The broader goal is to explore whether structured behavioural simulations and exploratory modelling environments may contribute to discussion surrounding alignment, governance, resilience, and long-horizon human–AI coexistence.
 
 ---
 
-# Website
+# Current Status
 
-https://misfitgenius.ca
+CG-AI is currently in an exploratory and simulation-oriented stage of development.
+
+The repository is evolving from conceptual thought experiments toward more structured behavioural protocols, reproducible simulations, and agent-based modelling environments.
+
+Current work includes exploratory NetLogo migration frameworks intended to strengthen experimental structure, improve reproducibility, and support future simulation refinement.
+
+---
+
+# Authorship
+
+Original concepts, thought experiments, repository direction, and framework development:
+
+Julie Jamieson
+
+Simulation scaffolding and AI-assisted implementation support:
+
+GPT-5 (OpenAI)
