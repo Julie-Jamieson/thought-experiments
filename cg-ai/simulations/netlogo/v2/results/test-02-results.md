@@ -17,7 +17,7 @@ Observations:
 - Full system collapse occurred by tick 117
 - All agents died
 
-Interpretation:
+Preliminary Interpretation:
 Reducing environmental regeneration from 0.5 to 0.1 fundamentally changed the outcome of the simulation.
 
 Under higher regeneration conditions, selfish extraction produced a stable but depleted equilibrium. Under lower regeneration conditions, the same behavioural dynamics rapidly exhausted the environment and produced total collapse.

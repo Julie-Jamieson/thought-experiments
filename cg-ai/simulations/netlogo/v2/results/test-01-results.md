@@ -18,7 +18,7 @@ Observations:
 - Resource levels remained persistently low but sustainable
 - No total system collapse occurred
 
-Interpretation:
+Preliminary Interpretation:
 Under the current regeneration conditions, selfish extraction behaviour produced a stable but resource-depleted equilibrium.
 
 Although cooperative agents were eliminated, environmental regeneration remained sufficient to prevent full collapse even under exclusively selfish extraction dynamics.
